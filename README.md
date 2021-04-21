@@ -1,2 +1,2 @@
 # Web-Task
-Restraunt website
+Restaurant website
